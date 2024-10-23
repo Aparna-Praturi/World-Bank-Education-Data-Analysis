@@ -1,1 +1,1 @@
-This repository contains projects of exploratory data analysis
+This project is about detailed exploratory data analysis of world education data.
